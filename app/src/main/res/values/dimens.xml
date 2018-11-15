@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_padding">8dp</dimen>
+    <dimen name="mid_padding">24dp</dimen>
+    <dimen name="max_padding">32dp</dimen>
+    <dimen name="image_width">100dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="margin_start_detail">16dp</dimen>
+    <dimen name="maxxx_padding">64dp</dimen>
+</resources>

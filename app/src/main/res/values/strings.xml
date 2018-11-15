@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Task65Apps</string>
+    <string name="id">101</string>
+    <string name="specialty">Developer</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="age">Возраст</string>
+    <string name="specialty_label">Специализация</string>
+    <string name="photo">Фото</string>
+    <string name="load_error">Load error, press sync button</string>
+    <plurals name="plural_age">
+        <item quantity="zero">%d лет</item>
+        <item quantity="one">%d год</item>
+        <item quantity="two">%d года</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d года</item>
+    </plurals>
+</resources>
